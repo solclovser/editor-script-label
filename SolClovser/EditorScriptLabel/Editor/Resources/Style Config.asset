@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84dc45fa08e6f7642b96a811ae324185, type: 3}
+  m_Name: Style Config
+  m_EditorClassIdentifier: 
+  fontSize: 17
+  fontStyle: 1
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  allUpperCase: 1
+  backgroundTexture: {fileID: 2800000, guid: ef5b609e903c0c64dbc2732c7e51e25c, type: 3}
+  boxHeight: 10
+  spacingAfterLabel: 5
